@@ -16,15 +16,16 @@ A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic
 
 ## ✨ Features
 
-- 🧠 Pydantic AI-based intelligent agent system
-- 🔍 Multiple search strategies: Vector Search and Hybrid Search
-- 📄 Advanced PDF processing: Table and image extraction with Docling
-- 💾 Database: PostgreSQL + pgvector extension
-- 🌊 Real-time streaming: Live responses via Server-Sent Events
-- 🎯 Session management: Conversation history and context retention
-- 🐳 Docker containerization: Easy deployment
-- 🔧 Type safety: Reliable data handling with Pydantic models
-- ⚡ Instant ingestion: Upload documents and query immediately
+OpenAI Function Calling
+RAG Pipeline
+Embeddings
+FastAPI Backend
+GitHub API Integration
+Agent Orchestration
+Tool Execution
+Retry Logic
+Observability
+Docker Deployment
 
 ## 🛠️ Tech Stack
 
