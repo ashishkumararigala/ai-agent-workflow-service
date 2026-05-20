@@ -16,16 +16,25 @@ A modern Agentic RAG (Retrieval-Augmented Generation) system built with Pydantic
 
 ## ✨ Features
 
-OpenAI Function Calling
-RAG Pipeline
-Embeddings
-FastAPI Backend
-GitHub API Integration
-Agent Orchestration
-Tool Execution
-Retry Logic
-Observability
-Docker Deployment
+- 🤖 OpenAI Function Calling: Implemented structured tool/function calling workflows with modular prompt handling and response orchestration
+
+- 🔍 RAG Pipeline: Built retrieval-augmented generation pipelines for contextual AI interactions and document-aware responses
+
+- 🧠 Embeddings & Vector Search: Integrated embeddings-based semantic retrieval using pgvector and hybrid search strategies
+
+- ⚡ FastAPI Backend: Developed scalable backend APIs and agent services using FastAPI and asynchronous request handling
+
+- 🔗 GitHub API Integration: Integrated GitHub APIs and webhook-style triggers for repository analysis and developer workflow automation
+
+- 🛠️ Agent Orchestration: Designed modular AI agent workflows with context assembly, session handling, and execution pipelines
+
+- ⚙️ Tool Execution Layer: Implemented structured tool schemas, execution routing, validation, and dynamic tool invocation
+
+- 🔁 Retry Logic & Guardrails: Added retries, exception handling, validation checks, and response guardrails for robust agent behaviour
+
+- 📊 Observability & Monitoring: Implemented structured logging, monitoring, and runtime diagnostics for reliability and debugging
+
+- 🐳 Docker Deployment: Containerized services using Docker and Docker Compose for scalable local and cloud deployment
 
 ## 🛠️ Tech Stack
 
